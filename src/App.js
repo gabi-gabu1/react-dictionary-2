@@ -7,8 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={booklogo} alt="logo" />
+        <h3>Dictionary</h3>
       </header>
-      <Dictionary />
+      <Dictionary keyWord="moon" />
     </div>
   );
 }

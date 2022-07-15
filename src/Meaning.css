@@ -1,0 +1,9 @@
+ul {
+  list-style-position: inside;
+  margin: 5px auto;
+  padding-left: 0;
+}
+em {
+  padding-left: 22px;
+  color: rgba(0, 0, 0, 0.6);
+}
