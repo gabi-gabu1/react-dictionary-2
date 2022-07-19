@@ -52,9 +52,7 @@ export default function Dictionary(props) {
           <form onSubmit={submitForm}>
             <input type="search" onChange={wordChange} />
           </form>
-          <p>
-            suggested words: sunset, piano, yoga, dog, stepped, on, a, bee..
-          </p>
+          <p>suggested words: dawn, piano, comet..</p>
         </section>
         <Results results={results} />
         <Photos photos={photo} />
